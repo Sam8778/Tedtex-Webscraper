@@ -10,7 +10,6 @@ import { useRouter } from "next/navigation";
 type Props = {
   params: {
     id: string;
-
   }
 }
 
@@ -32,12 +31,13 @@ function SearchPage({ params: { id } }: Props) {
     </button >
   );
 
-  if (loading)
+  if (loading) {
     return (
       <h1 className="text-center p-10 animate-pulse text-xl text-indigo-600/50">
         Loading Results...
       </h1>
     );
+  }
 
   if (!snapshot?.exists()) return;
 
@@ -86,7 +86,6 @@ function SearchPage({ params: { id } }: Props) {
       }
     </div>
   )
-
 }
 
 export default SearchPage
