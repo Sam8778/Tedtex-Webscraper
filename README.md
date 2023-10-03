@@ -1,5 +1,9 @@
 <p align="center">
- <h2 align="center">Tedtex Webscraper</h2>
+ <a href="https://tedtex-scraper.vercel.app/" target="_blank">
+  <h2 align="center">
+  Tedtex Webscraper
+ </h2>
+ </a>
 </p>
 
 ### Hi there 👋 I'm [Sam George]
