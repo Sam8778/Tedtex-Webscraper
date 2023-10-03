@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://tedtex-scraper.vercel.app/" target="_blank">
+ <a href="https://tedtex-scraper.vercel.app/">
   <h2 align="center">
   Tedtex Webscraper
  </h2>
@@ -27,6 +27,24 @@ Tedtex-Webscraper allows users to easily scrape publicly available data from any
 
 | [<img src="https://seeklogo.com/images/B/brightdata-logo-0B731D9F1F-seeklogo.com.png" alt="brightdata" width="24">](https://www.brightdata.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)
 |---|---|---|---|
+
+### BrightData code example 🧑‍💻
+
+In the code example below, we make a request to retrieve the Amazon product page for any product.
+
+```javascript
+settings({ country: input.country || "us" });
+navigate(`https://www.amazon.com/s?k=${input.search}`);
+let max_page = parse().max_page;
+let final_page = Math.min(input.pages || 0, max_page) || 1;
+for (let i = 1; i <= final_page; i++) {
+  let url = `https://www.amazon.com/s?k=${input.search}`;
+  if (i > 1) url += `&page=${i}`;
+  next_collector({ url, country: input.country, search: input.search });
+}
+```
+
+Can modify this script to run scraper on other websites
 
 ### Github Stats
 
