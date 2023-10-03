@@ -33,7 +33,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sam8778&repo=PackageTemplate&show_owner=true)](https://github.com/Sam8778/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sam8778&repo=Tedtex-Webscraper&show_owner=true)](https://github.com/Sam8778/Tedtex-Webscraper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sam8778&repo=Tedtex-Webscraper&show_owner=true)](https://github.com/Sam8778/Tedtex-Webscraper) 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
