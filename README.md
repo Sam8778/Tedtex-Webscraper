@@ -1,27 +1,48 @@
-# Next.js + Tailwind CSS Example
+<p align="center">
+ <h2 align="center">Tedtex Webscraper</h2>
+</p>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+### Hi there 👋 I'm [Sam George]
+> Software Engineer
 
-## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+<div>
+ <p>
+I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
-## How to use
+I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+</p>
+</div>
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+### Programming Languages Used🌐
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+| | | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" alt="Nextjs" width="24">](https://getnextjs.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" alt="Nextjs" width="24">](https://getnextjs.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="24">](https://typescript.com/)
+|---|---|---|---|---|---|
+ 
+### Tools 🛠️
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | Varnish Cache | many more...
+|---|---|---|---|---|
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+### Github Stats
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+
+### Github Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
+<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
+
+⭐️ From [@anandmainali](https://github.com/anandmainali)
