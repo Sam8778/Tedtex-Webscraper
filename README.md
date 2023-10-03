@@ -31,18 +31,15 @@ I have excellent design & coding skills, as well as an ability to convert requir
 [![Sam George GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam8778&show_icons=true&count_private=true)](https://github.com/Sam8778)
 
 ### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sam8778&repo=PackageTemplate&show_owner=true)](https://github.com/Sam8778/PackageTemplate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sam8778&repo=Tedtex-Webscraper&show_owner=true)](https://github.com/Sam8778/Tedtex-Webscraper) 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://portfolio-sam8778.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/sam-george-264618166/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:devsamgeorge@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali)
+⭐️ From [@Sam George](https://github.com/Sam8778)
