@@ -36,9 +36,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://portfolio-sam8778.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sam-george-264618166/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:devsamgeorge@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://portfolio-sam8778.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.samgeorge.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/sam-george-264618166/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@samgeorge-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:devsamgeorge@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-devsamgeorge@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
