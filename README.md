@@ -15,6 +15,7 @@
 <div>
  <p>
 Tedtex-Webscraper allows users to easily scrape publicly available data from any page on Amazon, such as reviews, pricing, product information, and more. If you're interested in testing out this powerful tool, you can check out the website.
+  Tedtex leverages the power of bright data to scrape data.
 </p>
 </div>
 
