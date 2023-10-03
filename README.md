@@ -18,7 +18,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Programming Languages Used🌐
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJs" width="24">](https://getreact.com/) |  [<img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Nextjs" width="24">](https://getnextjs.com/) | [<img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="Tailwind" width="24">](https://gettailwind.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="24">](https://javascript.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="24">](https://typescript.com/)
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJs" width="24">](https://getreact.com/) |  [<img src="https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp" alt="Nextjs" width="24">](https://getnextjs.com/) | [<img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="Tailwind" width="24">](https://gettailwind.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="24">](https://javascript.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="24">](https://typescript.com/)
 |---|---|---|---|---|
  
 ### Tools 🛠️
@@ -28,12 +28,12 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Sam George GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam8778&show_icons=true&count_private=true)](https://github.com/Sam8778)
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sam8778&repo=PackageTemplate&show_owner=true)](https://github.com/Sam8778/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sam8778&repo=Tedtex-Webscraper&show_owner=true)](https://github.com/Sam8778/Tedtex-Webscraper)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
