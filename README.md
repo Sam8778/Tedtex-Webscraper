@@ -29,6 +29,13 @@ Tedtex-Webscraper allows users to easily scrape publicly available data from any
 | [<img src="https://seeklogo.com/images/B/brightdata-logo-0B731D9F1F-seeklogo.com.png" alt="brightdata" width="24">](https://www.brightdata.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)
 |---|---|---|---|
 
+### How to run the Code 🤷
+- Clone the Project using Git Clone
+- Change values in .env file
+- Create an account in Bright Data and put the automation script in.
+- Create an account in Firebase and connect it.
+- After all the env values are updated launch the project with the npm run dev command.
+
 ### BrightData code example 🧑‍💻
 
 In the code example below, we make a request to retrieve the Amazon product page for any product.
